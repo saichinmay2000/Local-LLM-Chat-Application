@@ -1,4 +1,4 @@
-# Project: Streamlit and FastAPI Integration
+# Project: Local LLM Chat Application Using Ollama and Streamlit
 
 ## Overview
 This project combines the power of Streamlit for interactive user interfaces and FastAPI for building robust backend APIs. It also integrates the Ollama API and Hugging Face Hub for leveraging AI models.
